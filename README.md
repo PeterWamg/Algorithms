@@ -1,3 +1,6 @@
 # Algorithms
 
-[另一个仓库的名称](https://github.com/PeterWamg/Dijkstra)https://github.com/PeterWamg/Dijkstra)
+(https://github.com/PeterWamg/Dijkstra)
+（https://github.com/PeterWamg/Closest-Points）
+(https://github.com/PeterWamg/Interval-Scheduling)
+(https://github.com/PeterWamg/Knapsack)
