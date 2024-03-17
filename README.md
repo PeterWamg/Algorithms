@@ -21,21 +21,24 @@ The greedy algorithm is a problem-solving strategy in which at each step, the al
 
 ### Application
 #### The shortest path problem
-![Image Title](shortest -path.png)
+![Image Title](2.png)
 >
 The shortest path problem refers to finding the shortest path between two vertices in a graph. It is commonly applied in real-life scenarios such as traffic planning and logistics management. To solve the shortest path problem, the Dijkstra algorithm is often employed.
+>
 (https://github.com/PeterWamg/Dijkstra)
 
 #### Interval-Scheduling
 ![Image Title](Interval-Scheduling.png)
 >
 Interval-Scheduling is a common scheduling problem used to organize a series of tasks or activities to maximize the utilization of resources. In the Interval-Scheduling problem, each task has a start time and an end time, and the objective is to select the maximum number of tasks such that their time intervals do not overlap with each other.
+>
 (https://github.com/PeterWamg/Interval-Scheduling)
 
 #### Knapsack Problem
 ![Image Title](Knapsack.png)
 >
 The Knapsack Problem is a classic optimization problem in computer science and combinatorial optimization. It's often encountered in resource allocation scenarios where items with different values and weights need to be packed into a knapsack with a limited capacity. The goal is to maximize the total value of the items packed into the knapsack without exceeding its weight capacity.
+>
 (https://github.com/PeterWamg/Knapsack)
 
 
