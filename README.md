@@ -41,11 +41,26 @@ The Knapsack Problem is a classic optimization problem in computer science and c
 >
 (https://github.com/PeterWamg/Knapsack)
 
+## Divide and Conquer
 
+### Introduction
+Divide and conquer is an algorithm that divides the original problem into smaller sub problems, recursively solves these sub problems, and then combines their solutions to obtain the solution of the original problem.
+![Image Title](4.png)
 
+### Three Steps
 
+- Divide Break down the original problem into smaller sub problems. This step usually involves dividing the problem into sub problems of the same size, or dividing the problem into two or more smaller sub problems.
+- Conquer Resolve each subproblem recursively. If the subproblems are small enough, solve them directly; Otherwise, continue to recursively decompose the subproblems until the problem becomes simple enough to be solved directly.
+- Combine Merge the solutions of the subproblems into the solutions of the original problem. In this step, combine the solutions of the subproblems to obtain the solution of the original problem.
 
-
-
+  
+### Application
+#### Closest-Points
+![Image Title](3.png)
+>
+The Closest Points problem refers to finding the distance between the two closest points in a given set of points on a plane. A common method to solve the Closed Points problem is to use the divide and conquer.
+>
 (https://github.com/PeterWamg/Closest-Points)
+
+
 
